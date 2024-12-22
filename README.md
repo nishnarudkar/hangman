@@ -24,7 +24,13 @@ This is a simple Hangman game implemented in Python. The game selects a random w
    cd hangman
    ```
 
-3. Run the game:
+3. Install the required dependencies:
+   ```sh
+    pip install -r requirements.txt
+   ```
+
+
+4. Run the game:
    ```sh
    python main.py
    ```
