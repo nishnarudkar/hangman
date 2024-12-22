@@ -1,6 +1,3 @@
-Based on the information gathered, here is a draft README for the Hangman project:
-
----
 
 # Hangman
 
